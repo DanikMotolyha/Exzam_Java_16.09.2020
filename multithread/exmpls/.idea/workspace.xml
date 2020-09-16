@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4c9630e-df1f-407c-a159-5bd0d515a8f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gjL9gPy03SoVQBk5hreXtOQ4Y9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bid" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\EXZAM\multithread\exmpls\src\sem" />
+      <recent name="D:\EXZAM\multithread\exmpls\src\tofile" />
+      <recent name="D:\EXZAM\multithread\exmpls\src\Semaphore" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Check">
+    <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tofile.Check" />
+      <module name="exmpls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tofile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem.Main" />
+      <module name="exmpls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semaphore.Main" />
+      <module name="exmpls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semaphore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem.Thread2" />
+      <module name="exmpls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wtf.Thread2" />
+      <module name="exmpls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wtf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Thread2" />
+      <item itemvalue="Application.Thread2 (1)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Check" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Check" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Thread2 (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Thread2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4c9630e-df1f-407c-a159-5bd0d515a8f6" name="Default Changelist" comment="" />
+      <created>1598622904913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598622904913</updated>
+      <workItem from="1598622907685" duration="600000" />
+      <workItem from="1598707088910" duration="6945000" />
+      <workItem from="1599210425304" duration="17000" />
+      <workItem from="1600252198488" duration="1716000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="460" y="131" key="FileChooserDialogImpl" timestamp="1600252403731">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="460" y="131" key="FileChooserDialogImpl/0.0.1458.864@0.0.1458.864" timestamp="1600252403731" />
+    <state width="1407" height="395" key="GridCell.Tab.0.bottom" timestamp="1600257423242">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1407" height="395" key="GridCell.Tab.0.bottom/0.0.1458.864@0.0.1458.864" timestamp="1600257423242" />
+    <state width="1774" height="346" key="GridCell.Tab.0.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1598716028412" />
+    <state width="1407" height="395" key="GridCell.Tab.0.center" timestamp="1600257423242">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1407" height="395" key="GridCell.Tab.0.center/0.0.1458.864@0.0.1458.864" timestamp="1600257423242" />
+    <state width="1774" height="346" key="GridCell.Tab.0.center/0.0.1842.1080@0.0.1842.1080" timestamp="1598716028412" />
+    <state width="1407" height="395" key="GridCell.Tab.0.left" timestamp="1600257423242">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1407" height="395" key="GridCell.Tab.0.left/0.0.1458.864@0.0.1458.864" timestamp="1600257423242" />
+    <state width="1774" height="346" key="GridCell.Tab.0.left/0.0.1842.1080@0.0.1842.1080" timestamp="1598716028412" />
+    <state width="1407" height="395" key="GridCell.Tab.0.right" timestamp="1600257423242">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state width="1407" height="395" key="GridCell.Tab.0.right/0.0.1458.864@0.0.1458.864" timestamp="1600257423242" />
+    <state width="1774" height="346" key="GridCell.Tab.0.right/0.0.1842.1080@0.0.1842.1080" timestamp="1598716028412" />
+    <state width="1774" height="346" key="GridCell.Tab.1.bottom" timestamp="1598716028413">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1774" height="346" key="GridCell.Tab.1.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1598716028413" />
+    <state width="1774" height="346" key="GridCell.Tab.1.center" timestamp="1598716028413">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1774" height="346" key="GridCell.Tab.1.center/0.0.1842.1080@0.0.1842.1080" timestamp="1598716028413" />
+    <state width="1774" height="346" key="GridCell.Tab.1.left" timestamp="1598716028412">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1774" height="346" key="GridCell.Tab.1.left/0.0.1842.1080@0.0.1842.1080" timestamp="1598716028412" />
+    <state width="1774" height="346" key="GridCell.Tab.1.right" timestamp="1598716028413">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1774" height="346" key="GridCell.Tab.1.right/0.0.1842.1080@0.0.1842.1080" timestamp="1598716028413" />
+    <state x="603" y="102" key="refactoring.ChangeSignatureDialog" timestamp="1598623178929">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="603" y="102" key="refactoring.ChangeSignatureDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1598623178929" />
+    <state x="622" y="439" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1598707297602">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="622" y="439" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1598707297602" />
+  </component>
+</project>

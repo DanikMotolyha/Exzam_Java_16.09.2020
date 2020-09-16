@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JSP(Asks,Answers):war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2d27408-6cb7-44b6-837f-eb8727c347f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1gjJJAPWX85icRONAXgbx7IEQ33" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561356995377" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../джава" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GlassFish 5.0.1" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.1" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="13" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="DOMAIN" value="" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GlassfishConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="DOMAIN" value="" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="GlassFish Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="GlassFish Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d27408-6cb7-44b6-837f-eb8727c347f6" name="Default Changelist" comment="" />
+      <created>1537724212516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537724212516</updated>
+      <workItem from="1537724219230" duration="9086000" />
+      <workItem from="1537789181713" duration="441000" />
+      <workItem from="1537949010237" duration="211000" />
+      <workItem from="1538119876188" duration="21000" />
+      <workItem from="1561305255363" duration="988000" />
+      <workItem from="1561355212597" duration="1634000" />
+      <workItem from="1598621999734" duration="2905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="117" key="#Tomcat_Server" timestamp="1598622033513">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="413" y="117" key="#Tomcat_Server/0.0.1842.1080@0.0.1842.1080" timestamp="1598622033513" />
+    <state x="155" y="0" width="1163" height="836" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598622106991">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="155" y="0" width="1163" height="836" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1598622106991" />
+    <state x="651" y="224" key="FileChooserDialogImpl" timestamp="1598622755295">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="651" y="224" key="FileChooserDialogImpl/0.0.1842.1080@0.0.1842.1080" timestamp="1598622755295" />
+    <state width="1227" height="283" key="GridCell.Tab.0.bottom" timestamp="1598625398162">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.0.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1598625398162" />
+    <state width="1227" height="283" key="GridCell.Tab.0.center" timestamp="1598625398162">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.0.center/0.0.1842.1080@0.0.1842.1080" timestamp="1598625398162" />
+    <state width="1227" height="283" key="GridCell.Tab.0.left" timestamp="1598625398162">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.0.left/0.0.1842.1080@0.0.1842.1080" timestamp="1598625398162" />
+    <state width="1227" height="283" key="GridCell.Tab.0.right" timestamp="1598625398162">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.0.right/0.0.1842.1080@0.0.1842.1080" timestamp="1598625398162" />
+    <state width="1227" height="283" key="GridCell.Tab.1.bottom" timestamp="1598622705113">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.1.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1598622705113" />
+    <state width="1227" height="283" key="GridCell.Tab.1.center" timestamp="1598622705112">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.1.center/0.0.1842.1080@0.0.1842.1080" timestamp="1598622705112" />
+    <state width="1227" height="283" key="GridCell.Tab.1.left" timestamp="1598622705112">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.1.left/0.0.1842.1080@0.0.1842.1080" timestamp="1598622705112" />
+    <state width="1227" height="283" key="GridCell.Tab.1.right" timestamp="1598622705113">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.1.right/0.0.1842.1080@0.0.1842.1080" timestamp="1598622705113" />
+    <state x="0" y="75" key="new project wizard" timestamp="1598622621589">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="0" y="75" key="new project wizard/0.0.1842.1080@0.0.1842.1080" timestamp="1598622621589" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JSP(Asks,Answers):war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JSP(Asks,Answers)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>servlet-api1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,55 @@
+ctrl + D
+ 
+скопировать строку
+ 
+ctrl + O
+ 
+методы дупост дугет
+Полина
+Полина 12:33
+ 
+psvm + TAB
+Полина
+Полина 13:45
+ 
+Shift + f6
+ 
+Rename
+
+
+----------------------------
+<dependency>
+<groupId>javax.servlet</groupId>
+<artifactId>javax.servlet-api</artifactId>
+<version>4.0.1</version>
+<scope>provided</scope>
+</dependency>
+
+<dependency>
+<groupId>javax.servlet.jsp</groupId>
+<artifactId>javax.servlet.jsp-api</artifactId>
+<version>2.3.3</version>
+<scope>provided</scope>
+</dependency>
+
+
+
+
+
+<dependency>
+<groupId>mysql</groupId>
+<artifactId>mysql-connector-java</artifactId>
+<version>8.0.18</version>
+</dependency>
+--------------------------------------------------------
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE taglib
+PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN"
+"http://java.sun.com/j2ee/dtd/web-jsptaglibrary_1_2.dtd">
+
+<taglib>
+
+<tlib-version>1.0</tlib-version>
+<jsp-version>1.2</jsp-version>
+<short-name>simple</short-name>
+<uri>http://tomcat.apache.org/example-taglib</uri>

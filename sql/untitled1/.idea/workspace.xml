@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a36e602b-5080-445f-bf75-21084f67fb23" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hW0Ul6Ev5s6lYwvnnlJVpbJtMT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="untitled1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a36e602b-5080-445f-bf75-21084f67fb23" name="Default Changelist" comment="" />
+      <created>1600111559117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600111559117</updated>
+      <workItem from="1600111564429" duration="372000" />
+      <workItem from="1600112904580" duration="1176000" />
+      <workItem from="1600114408386" duration="4598000" />
+      <workItem from="1600197048316" duration="1207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="239" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1600111688053">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="588" y="239" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1600111688053" />
+    <state x="513" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600113463348">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="513" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1600113463348" />
+    <state x="682" y="183" key="#com.intellij.ide.util.MemberChooser" timestamp="1600118536400">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="682" y="183" key="#com.intellij.ide.util.MemberChooser/0.0.1842.1080@0.0.1842.1080" timestamp="1600118536400" />
+    <state x="726" y="285" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600113461960">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="726" y="285" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1600113461960" />
+    <state x="651" y="239" key="FileChooserDialogImpl" timestamp="1600113270516">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="651" y="239" key="FileChooserDialogImpl/0.0.1842.1080@0.0.1842.1080" timestamp="1600113270516" />
+    <state width="1791" height="283" key="GridCell.Tab.0.bottom" timestamp="1600118576372">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1791" height="283" key="GridCell.Tab.0.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1600118576372" />
+    <state width="1791" height="283" key="GridCell.Tab.0.center" timestamp="1600118576371">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1791" height="283" key="GridCell.Tab.0.center/0.0.1842.1080@0.0.1842.1080" timestamp="1600118576371" />
+    <state width="1791" height="283" key="GridCell.Tab.0.left" timestamp="1600118576371">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1791" height="283" key="GridCell.Tab.0.left/0.0.1842.1080@0.0.1842.1080" timestamp="1600118576371" />
+    <state width="1791" height="283" key="GridCell.Tab.0.right" timestamp="1600118576372">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1791" height="283" key="GridCell.Tab.0.right/0.0.1842.1080@0.0.1842.1080" timestamp="1600118576372" />
+    <state x="273" y="11" key="SettingsEditor" timestamp="1600113279286">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="273" y="11" key="SettingsEditor/0.0.1842.1080@0.0.1842.1080" timestamp="1600113279286" />
+    <state x="457" y="415" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600113266710">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="457" y="415" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1842.1080@0.0.1842.1080" timestamp="1600113266710" />
+    <state x="0" y="183" key="new project wizard" timestamp="1600111877274">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="0" y="183" key="new project wizard/0.0.1842.1080@0.0.1842.1080" timestamp="1600111877274" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/test.java</url>
+          <line>6</line>
+          <properties class="test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

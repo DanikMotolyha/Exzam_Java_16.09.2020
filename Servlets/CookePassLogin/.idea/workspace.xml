@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CookePassLogin:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ed6274d-82ee-408b-b95d-956fcff2c4aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1gpCJQqyxG1gCP0tpnodqpm3qki" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdminOrUser" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.1609375" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GlassFish 5.0.12" type="GlassfishConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="GlassFish 5.0.12" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="CookePassLogin:Web exploded">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="DOMAIN" value="domain1" />
+        <option name="PRESERVE" value="false" />
+        <option name="COMPATIBILITY" value="false" />
+        <option name="VIRTUAL_SERVER" />
+        <option name="USERNAME" value="admin" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="GlassFish" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CookePassLogin:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="GlassFish Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ed6274d-82ee-408b-b95d-956fcff2c4aa" name="Default Changelist" comment="" />
+      <created>1598802075055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598802075055</updated>
+      <workItem from="1598802078166" duration="2226000" />
+      <workItem from="1600109670003" duration="896000" />
+      <workItem from="1600202618364" duration="8000" />
+      <workItem from="1600233101573" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="375" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598805912885">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="375" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1598805912885" />
+    <state x="515" y="191" key="FileChooserDialogImpl" timestamp="1600233122408">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="515" y="191" key="FileChooserDialogImpl/0.0.1458.864@0.0.1458.864" timestamp="1600233122408" />
+    <state x="651" y="239" key="FileChooserDialogImpl/0.0.1842.1080@0.0.1842.1080" timestamp="1600202625187" />
+    <state width="1227" height="283" key="GridCell.Tab.0.bottom" timestamp="1598812217158">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.0.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1598812217158" />
+    <state width="1227" height="283" key="GridCell.Tab.0.center" timestamp="1598812217158">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.0.center/0.0.1842.1080@0.0.1842.1080" timestamp="1598812217158" />
+    <state width="1227" height="283" key="GridCell.Tab.0.left" timestamp="1598812217158">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.0.left/0.0.1842.1080@0.0.1842.1080" timestamp="1598812217158" />
+    <state width="1227" height="283" key="GridCell.Tab.0.right" timestamp="1598812217158">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.0.right/0.0.1842.1080@0.0.1842.1080" timestamp="1598812217158" />
+    <state width="1227" height="283" key="GridCell.Tab.1.bottom" timestamp="1598812217159">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.1.bottom/0.0.1842.1080@0.0.1842.1080" timestamp="1598812217159" />
+    <state width="1227" height="283" key="GridCell.Tab.1.center" timestamp="1598812217159">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.1.center/0.0.1842.1080@0.0.1842.1080" timestamp="1598812217159" />
+    <state width="1227" height="283" key="GridCell.Tab.1.left" timestamp="1598812217159">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.1.left/0.0.1842.1080@0.0.1842.1080" timestamp="1598812217159" />
+    <state width="1227" height="283" key="GridCell.Tab.1.right" timestamp="1598812217159">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state width="1227" height="283" key="GridCell.Tab.1.right/0.0.1842.1080@0.0.1842.1080" timestamp="1598812217159" />
+    <state x="88" y="0" key="SettingsEditor" timestamp="1598802107176">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="88" y="0" key="SettingsEditor/0.0.1842.1080@0.0.1842.1080" timestamp="1598802107176" />
+  </component>
+</project>
